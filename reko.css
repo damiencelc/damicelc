@@ -1,1 +1,12 @@
+body {
+background-color: darksalmon;
+text-align: center;
+}
 
+h1 {
+color: darkred;
+}
+
+.imagem1 {
+    width: 10%;
+}
