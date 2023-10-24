@@ -1,10 +1,10 @@
 body {
-background-color: darksalmon;
-text-align: center;
+background-color: rgb(231, 231, 231);
+text-align: right
 }
 
 h1 {
-color: darkred;
+color: rgb(56, 47, 34);
 }
 
 .imagem1 {
@@ -12,7 +12,7 @@ color: darkred;
 }
 
 .fyodor {
- color: darksamon
+ color: rgb(124, 97, 60)
 }
 
 .nikolai {
